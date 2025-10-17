@@ -218,7 +218,7 @@ export default class App extends Component {
                 </a>
                 . Hosted on{" "}
                 <a
-                  href="https://vanillaweathersearch223.netlify.app/"
+                  href="https://dean-weather-react.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
